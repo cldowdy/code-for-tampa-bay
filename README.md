@@ -8,7 +8,7 @@ The raw data came to us in the form of a web scrape of the online offender based
 
 - `2016 hack poster Code for Tampa Bay.pdf`: Promotional flier associated with the Tampa Bay initiative
 - `Homelessness_Tampa_Bay.pdf`: A preliminary analysis of the cleaned database
-- **cleaned-data**:
+- **cleaned-data**
 	* `booking_add.clean.example`: The head of the cleaned charges dataset
 	* `release.clean.example`: The head of the cleaned release dataset
 - **input-data**
