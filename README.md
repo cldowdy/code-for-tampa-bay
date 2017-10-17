@@ -1,10 +1,11 @@
-# Data Collection
+# Code for Tampa Bay 
+
 Data was collected as part of the Code for Tampa Bay initiative, an international network of people committed to using tech skills to improve the local community. The overall goal of this project was to gauge the impact of chronic homelessness has on the Criminal Justice System. We took part in this project and built a relational database of incarceration and release data.
 
+## Data 
 The raw data came to us in the form of a web scrape of the online offender based transaction system. The files included in this repository are intended to showcase the preprocessing necessary to go from a messy web scrape to something that can be easily migrated to a database.
 
-
-## Contents
+## Repo Contents
 
 - `2016 hack poster Code for Tampa Bay.pdf`: Promotional flier associated with the Tampa Bay initiative
 - `Homelessness_Tampa_Bay.pdf`: A preliminary analysis of the cleaned database
